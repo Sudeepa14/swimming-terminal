@@ -1,3 +1,5 @@
+This is the command line verstion of Swimming Competition. 
+
 1.Goto commandline interface
 2.Goto the file contating the "Competition.java"
 2.Type "javac Competition.java"
